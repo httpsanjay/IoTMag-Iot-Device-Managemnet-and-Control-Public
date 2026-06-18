@@ -197,13 +197,13 @@ Content-Type: application/json
 
 ## Planned Improvements
 
-- API Documentation - Half completed
+- API Documentation - DONE
 - Postgres - DONE
 - Custom error page - DONE
 - Redis -DONE
-- Login/Signup EMAIL 
+- Login/Signup EMAIL - DONE
 - MQTT protocol support
-- Device grouping
+- Device grouping - DONE
 - Analytics dashboard
 
 
